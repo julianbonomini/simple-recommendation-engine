@@ -1,6 +1,6 @@
 # Simple recommendation engine
 
-This reposotory is ment to be a guide for those who are looking to start a really simple recommendation engine based on users. This engine is using Pearson correlation coefficient as a similarity metric. Be aware that this is not fully complete and the dataset is small, probably you will need to change things to adapt this engine for larger datasets.
+This reposotory is meant to be a guide for those who are looking to start a really simple recommendation engine based on users. This engine is using Pearson correlation coefficient as a similarity metric. Be aware that this is not fully complete and the dataset is small, probably you will need to change things to adapt this engine for larger datasets.
 
 ### Dependencies
 
