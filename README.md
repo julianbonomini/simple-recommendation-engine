@@ -17,7 +17,7 @@ This coefficient determinates the similarity between users. This coefficient is 
 
 ### Reference
 
- - Most of this work is explaind in `Collective Intelligence` from Toby Segaran. You can buy it [here](https://www.amazon.com/dp/B00F8QDZWG/?coliid=ICKY5DK5MDEOB&colid=7UD89JF3KE4G&psc=0&ref_=lv_ov_lig_dp_it). I really recomend it!
+ - Most of this work is explained in `Collective Intelligence` from Toby Segaran. You can buy it [here](https://www.amazon.com/dp/B00F8QDZWG/?coliid=ICKY5DK5MDEOB&colid=7UD89JF3KE4G&psc=0&ref_=lv_ov_lig_dp_it). I really recomend it!
 
 License
 ----
